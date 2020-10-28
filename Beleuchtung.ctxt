@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Beleuchtung()
+comment0.text=\r\n\ Konstruktur\ Beleuchtung\ erstellt\ eine\ neue\ Lichterkette\ mit\ fuenf\ LEDs\r\n
+comment1.params=
+comment1.target=void\ alleAusschalten()
+comment1.text=\r\n\ Diese\ Methode\ soll\ alle\ LEDs\ der\ Lichterkette\ ausschalten\r\n
+comment2.params=
+comment2.target=void\ alleAnschalten()
+comment2.text=\r\n\ Diese\ Methode\ soll\ alle\ LEDs\ der\ Lichterkette\ anschalten\r\n
+comment3.params=
+comment3.target=void\ jedeZweiteAnschalten()
+comment3.text=\r\n\ Diese\ Methode\ soll\ jede\ zweite\ LED\ der\ Lichterkette\ anschalten\r\n
+numComments=4

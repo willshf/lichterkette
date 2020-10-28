@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=xpos
+comment0.target=LED(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LED\r\n
+comment1.params=
+comment1.target=void\ anschalten()
+comment2.params=
+comment2.target=void\ ausschalten()
+numComments=3
